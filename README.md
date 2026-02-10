@@ -4,8 +4,8 @@ This is the frontend of a full-stack To-Do List application built using React an
 It allows users to manage daily tasks through a clean and simple UI.
 
 ## 🚀 Live Demo
-Frontend: https://your-frontend-url  
-Backend API: https://your-backend-url
+Frontend: https://todo-frontend-hh36.onrender.com
+Backend API: https://todo-backend-kxud.onrender.com/api/tasks
 
 ## 🛠 Tech Stack
 - React
@@ -13,7 +13,7 @@ Backend API: https://your-backend-url
 - JavaScript
 - Axios / Fetch API
 - CSS
-- Deployed on Render / Vercel
+- Deployed on Render 
 
 ## ✨ Features
 - Add new tasks
