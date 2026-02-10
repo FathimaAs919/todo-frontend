@@ -4,7 +4,7 @@ import TodoForm from "./components/TodoForm";
 import TodoList from "./components/TodoList";
 import "./App.css";
 
-const API_URL = process.env.REACT_APP_API_URL;
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8001/api/tasks";
 
 function App() {
   const [tasks, setTasks] = useState([]);
